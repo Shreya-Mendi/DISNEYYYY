@@ -1,4 +1,5 @@
 # Disney Character Popularity Mini-Project
+We used ChatGPT 5 on 11/11 at 12:45pm to generate some code and content for this project.
 
 This repo contains a compact machine-learning pipeline that predicts whether a Disney hero headlines a blockbuster (above-median inflation-adjusted gross) by blending:
 - Character descriptors (`hero`, `villain`, signature `song`) from `data/disney-characters.csv`.
